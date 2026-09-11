@@ -13,7 +13,7 @@ const Hero: React.FC<HeroProps> = ({ onViewResume }) => {
           Jeevan Jiji
         </h1>
         <p className="mt-4 text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
-          Final Year Integrated MCA Student | Aspiring Full-Stack & Game Developer
+          Integrated MCA Graduate | Full-Stack & Game Developer
         </p>
         <p className="mt-6 text-xl md:text-2xl text-gray-700 font-light max-w-2xl mx-auto">
           I build experiences through code – from full-stack web apps to 3D game projects.

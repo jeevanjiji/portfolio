@@ -71,7 +71,7 @@ const ResumeView: React.FC<ResumeViewProps> = ({ onNavigateHome }) => {
                 Jeevan Jiji
               </h2>
               <p className="text-gray-600 mt-1">
-                Final Year Integrated MCA Student | Aspiring Full-Stack & Game Developer
+                Integrated MCA Graduate | Full-Stack & Game Developer
               </p>
             </div>
             <div className="flex flex-wrap gap-2">
